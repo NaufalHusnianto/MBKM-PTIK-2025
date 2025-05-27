@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Scene.unity
     guid: 4438ce569bf34344994d1d81ee713714
   - enabled: 1
-    path: Assets/Scenes/Ruang Tamu.unity
+    path: Assets/Scenes/Ruang Kamar.unity
     guid: dc1c5a478a9a6884dac796f3ec2024ef
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
