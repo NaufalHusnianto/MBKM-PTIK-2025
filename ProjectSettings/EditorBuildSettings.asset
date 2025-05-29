@@ -9,11 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Scene.unity
     guid: 4438ce569bf34344994d1d81ee713714
   - enabled: 1
-    path: Assets/Scenes/Ruang Kamar.unity
-    guid: dc1c5a478a9a6884dac796f3ec2024ef
+    path: Assets/Scenes/Ruang 1.unity
+    guid: 4d9fb0b1923049f43872325008081e99
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/Ruang 2.unity
+    guid: 2f2e6ab8a439c7f458b27f882be7838d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a5a74f1181bb64545acbbefc1d511298, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4fa0255f13ad06442a6952a6ce6ebd52, type: 2}

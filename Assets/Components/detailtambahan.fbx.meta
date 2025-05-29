@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: fe291580a20cdfa40958292fe59f7ab4
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Drops_Alpha_Raw
+    second: {fileID: 2800000, guid: fbdd2c3b305db2541b516db1e73798f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Drops_BaseColor_sRGB
+    second: {fileID: 2800000, guid: f84fc8d70b99c2c43a2e0d45c96c0e53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Drops_Emission_sRGB
+    second: {fileID: 2800000, guid: b27cc05629661b94db6b98c933280f83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Drops_Metallic_Raw
+    second: {fileID: 2800000, guid: 56db1755b4e8ae943a1cd8f70d59d36a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Drops_Normal_Raw
+    second: {fileID: 2800000, guid: 29e5c55003d1d2e4cb44cd5a97016c01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Drops_Roughness_Raw
+    second: {fileID: 2800000, guid: 201a55f71b2ee014299e541342126eae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Alpha_Raw
+    second: {fileID: 2800000, guid: df28c8ffc6daee248b00b4ebb89781bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric_BaseColor_sRGB
+    second: {fileID: 2800000, guid: 00cb7bd023bd3e14c920a17c1637f888, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Emission_sRGB
+    second: {fileID: 2800000, guid: 32fcf7e4773b79e4ca2babed186aef3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Metallic_Raw
+    second: {fileID: 2800000, guid: 856cf8ac57089d940a93462aea945975, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Normal_Raw
+    second: {fileID: 2800000, guid: 72ddbb0c563098c429f21096316178db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Roughness_Raw
+    second: {fileID: 2800000, guid: 0f16cd7af04dcb240a03f12ba1a79e2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Frame_Alpha_Raw
+    second: {fileID: 2800000, guid: d55e0b7d3bc41fc4d8a0c84a8b0d0682, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Frame_BaseColor_sRGB
+    second: {fileID: 2800000, guid: 71725537dea658b4cb9f6bfe82d58f9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Frame_Emission_sRGB
+    second: {fileID: 2800000, guid: 5be6efd22f404694cbb2a84d1f5b35ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Frame_Metallic_Raw
+    second: {fileID: 2800000, guid: 03753963d6d39a540b9954bdc0f0ca3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Frame_Normal_Raw
+    second: {fileID: 2800000, guid: 6d10b2e4d859caf44ae2c6cfdf394773, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Frame_Roughness_Raw
+    second: {fileID: 2800000, guid: 0467131ea18b58844945900e1da5c21a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hand_Alpha_Raw
+    second: {fileID: 2800000, guid: 93d8a4e4075f02140be245287bb72641, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hand_BaseColor_sRGB
+    second: {fileID: 2800000, guid: fbf8814ce7abfd84c84ef7bc31e1cae5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hand_Emission_sRGB
+    second: {fileID: 2800000, guid: cdec576960b590547a22812ba9bf5f88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hand_Metallic_Raw
+    second: {fileID: 2800000, guid: b374e11b2dff86548ab90598e0484edb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hand_Normal_Raw
+    second: {fileID: 2800000, guid: 23b3f57942d047143b90266494a9f93e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hand_Roughness_Raw
+    second: {fileID: 2800000, guid: dbb9e82b9132cec4f87ac2fd87145ea3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pot_Alpha_Raw
+    second: {fileID: 2800000, guid: 5fe0526125a838047a00395cce58b0df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pot_BaseColor_sRGB
+    second: {fileID: 2800000, guid: a46ca5b66a2cb28409e8908013dde004, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pot_Emission_sRGB
+    second: {fileID: 2800000, guid: 928d80cc54fa6024aa1d3c6e370f8398, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pot_Metallic_Raw
+    second: {fileID: 2800000, guid: 2f86940ff2270804c82bc4ad77409c84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pot_Normal_Raw
+    second: {fileID: 2800000, guid: 192a441260d09694680746a786aa486c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pot_Roughness_Raw
+    second: {fileID: 2800000, guid: 9056d1c54d8c8db4fa0dd344da368085, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
