@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.XR.Interaction.Toolkit;
 
 public class AttachmentChecker : MonoBehaviour
 {
@@ -6,6 +7,11 @@ public class AttachmentChecker : MonoBehaviour
 
     public GameObject rayInteractorLeft;
     public GameObject rayInteractorRight;
+
+    public GameObject breadboard;
+    public GameObject esp32;
+    public GameObject dht22;
+    public GameObject led;
 
     public Transform point1;
     public Transform point2;
@@ -34,6 +40,11 @@ public class AttachmentChecker : MonoBehaviour
 
         if (obj1Correct && obj2Correct && obj3Correct)
         {
+            breadboard.GetComponent<XRGrabInteractable>().enabled = false;
+            esp32.GetComponent<XRGrabInteractable>().enabled = false;
+            dht22.GetComponent<XRGrabInteractable>().enabled = false;
+            led.GetComponent<XRGrabInteractable>().enabled = false;
+
             popupCanvas.SetActive(true);
             popupShown = true;
 

@@ -7,13 +7,16 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Main Scene.unity
-    guid: 9f5d53dcdbd933a4c8423084efd6dda6
+    guid: 0e8c47dbf47378e4aad613466141704c
   - enabled: 1
-    path: Assets/Scenes/Ruang 1.unity
-    guid: 4d9fb0b1923049f43872325008081e99
+    path: Assets/Scenes/Ruang 1 Perbaikan.unity
+    guid: ae72de219e444a142a3ce95c0e1d55e7
   - enabled: 1
-    path: Assets/Scenes/Ruang 2.unity
-    guid: 2f2e6ab8a439c7f458b27f882be7838d
+    path: Assets/Scenes/Ruang 2 Perbaikan.unity
+    guid: 2bcc38d91e078bf41acf7ed657e1bdca
+  - enabled: 1
+    path: Assets/Scenes/Ruang 3.unity
+    guid: f81d0a95252512f4fac80d8d63f17a03
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a5a74f1181bb64545acbbefc1d511298, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4fa0255f13ad06442a6952a6ce6ebd52, type: 2}
